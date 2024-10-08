@@ -35,3 +35,4 @@ if (escolhaDoTreinador === 1) {
 // Imprime o Pokémon escolhido:
 if (pokemonEscolhido) {
     print("Voce escolheu o " + pokemonEscolhido + " como seu Pokemon inicial.");
+}

@@ -1,4 +1,5 @@
 
+
 class Hero {
     // type: 0 = mago, 1 = guerreiro, 2 = monge, 3 = ninja;
     constructor(name, age, type) {
